@@ -1,0 +1,160 @@
+    #title {
+        background-color: #ff4c68;
+        color: #FFF;
+    }
+    
+    h1 {
+        font-family: "ubuntu";
+        font-size: "3.5 rem";
+        font-weight: 600;
+        line-height: 1.5;
+    }
+    
+    h3 {
+        font-weight: 500;
+        font-family: "ubuntu";
+        font-size: 1.8rem;
+    }
+    
+    p {
+        color: #8f8f88;
+        font-size: large;
+    }
+    
+    .nav-item {
+        padding: 0 5%
+    }
+    
+    .container-fluid {
+        padding: 3% 14%;
+    }
+    
+    .row {
+        padding-top: 4%;
+    }
+    
+    .idog {
+        width: 77%;
+        height: 95%;
+        transform: rotate(21deg);
+        padding: 10%;
+    }
+    
+    .download-buttons {
+        margin: 4% 2%
+    }
+    
+    .feature-box {
+        text-align: center;
+        padding: 8% 10%;
+    }
+    
+    .fas {
+        padding-bottom: 15%;
+        color: #ef8172;
+    }
+    
+    .fas:hover {
+        color: #ff4c68
+    }
+    
+    .all-content {
+        font-family: "monserrat";
+        font-weight: 500;
+        text-align: center;
+    }
+    
+    .navbar-brand {
+        font-family: "ubuntu";
+        font-size: 200%;
+    }
+    
+    .collapse {
+        font-size: 125%;
+    }
+    
+    #testimonials {
+        background-color: #ef8172;
+        color: #fff;
+        font-family: "ubuntu";
+    }
+    
+    .carousel-item {
+        padding: 8% 15%;
+    }
+    
+    .sniff {
+        padding: 0 19%;
+        font-weight: 500;
+        line-height: 2;
+        font-size: 250%;
+    }
+    
+    em {
+        font-size: 125%
+    }
+    
+    .testimonial-dog {
+        width: 25%;
+        border-radius: 100%;
+        padding: 4%;
+    }
+    
+    .testimonial-girl {
+        width: 25%;
+        border-radius: 100%;
+        padding: 4%;
+    }
+    
+    .testimonial-fdog {
+        width: 35%;
+        border-radius: 100%;
+        padding: 4%;
+    }
+    
+    #press {
+        background-color: #ef8172;
+    }
+    
+    .press-logo {
+        width: 19%;
+        padding: 3%;
+    }
+    
+    .priceh {
+        padding: 7% 11% 3%;
+        font-family: "ubuntu";
+        font-weight: 500;
+        font-size: 260%;
+        color: #ff4c68;
+    }
+    
+    .pricdeh {
+        padding: 0 5% 4%;
+        font-size: 125%;
+    }
+    
+    .sign-up {
+        margin-bottom: 7%;
+    }
+    
+    .footeer {
+        background-color: #ff4c68;
+        margin: 0;
+    }
+    
+    #cta {
+        padding: 5% 15% 3%;
+        color: #fff;
+        font-family: "ubuntu";
+    }
+    
+    .ctaa {
+        font-size: 225%;
+    }
+    
+    .copyrt {
+        color: #fff;
+        margin: 0;
+        padding-bottom: 3%;
+    }
